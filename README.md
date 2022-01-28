@@ -5,3 +5,7 @@ Have Fun!
 
 NOTE!
 This is W.I.P (Work In Progress) some stuff may not work!
+
+
+# Check out CosmeticInjector (it is not a download!)
+All the things you need to install is in the download folder!
